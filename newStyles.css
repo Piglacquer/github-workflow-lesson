@@ -1,18 +1,15 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body{
   background-color: rgb(246, 204, 97);
+}
+h1 {
+  font-size: 500px;
+  color: orange;
+  background-color: pink;
+}
+
+h2 {
+  color: pink;
+}
+body {
+  width: 30px;
 }
