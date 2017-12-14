@@ -1,0 +1,13 @@
+h1 {
+  font-size: 500px;
+  color: orange;
+  background-color: pink;
+}
+
+h2 {
+  color: pink;
+}
+body {
+  width: 30px;
+  background-color: purple;
+}
