@@ -1,19 +1,15 @@
-body {
-  my body, my body is tellin me yahhhh
+body{
+  background-color: rgb(246, 204, 97);
 }
-
 h1 {
-  when i h you h we h.. 1
+  font-size: 500px;
+  color: orange;
+  background-color: pink;
 }
 
-header {
-  head on through to the other side?
+h2 {
+  color: pink;
 }
-
-form {
-  form over function?
-}
-
-.target {
-  paul has one on his head
+body {
+  width: 30px;
 }
